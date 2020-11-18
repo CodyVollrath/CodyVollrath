@@ -2,7 +2,7 @@
 ![codyvollrath's github stats](https://github-readme-stats.vercel.app/api?username=codyvollrath&count_private=true)
 - 🔭 I’m currently working on a  website for a lawn care company.
 - 🌱 I’m currently learning <anything I can>!
-- 💬 Ask me about C#, .NET, and Web Development
+- 💬 Ask me about Python, assembly, C#, .NET, and Web Development
 - 🏢 Working 
 - 📫 How to reach me: cvollrath97@gmail.com
 - ⚡ Outside of Development: I am a Biology Tutor
