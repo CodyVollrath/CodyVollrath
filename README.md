@@ -3,7 +3,7 @@
 - 💬 Ask me about Python, assembly, C#, .NET, Systems Administration, and Web Development
 - 📫 How to reach me: cvollrath97@gmail.com
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/codyvollrath/CodyVollrath/blob/master/images/stat.svg" alt="Alternative Text"/>
 <!--
 **CodyVollrath/CodyVollrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
